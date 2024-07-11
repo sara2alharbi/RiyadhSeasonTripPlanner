@@ -1,0 +1,2 @@
+# RiyadhSeasonTripPlanner
+AI cource project
